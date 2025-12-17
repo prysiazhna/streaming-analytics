@@ -91,6 +91,17 @@ Includes:
 
 ---
 
+## Potential Product Actions
+
+1. Simplify trial activation flow during first session
+
+2. Strengthen post-week-1 engagement via content recommendations or notifications
+
+3. Prioritize localization and pricing experiments in top-revenue markets
+
+---
+
+
 ## ✅ Summary
 This project demonstrates an end-to-end **product analytics workflow**:
 - SQL-first approach for business logic
