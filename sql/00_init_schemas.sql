@@ -1,0 +1,4 @@
+CREATE SCHEMA raw;
+CREATE SCHEMA analytics;
+
+
